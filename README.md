@@ -1,9 +1,3 @@
-Perfect 👍 Sandhya
-
-Since you’re using this for your MERN portfolio and interviews, here’s a **clean, professional, no-code README content** that you can directly paste into your GitHub.
-
----
-
 # 🔐 MERN Stack Authentication System (JWT Based)
 
 A full-stack authentication system built using **React.js** for the frontend and **Node.js, Express.js, and MongoDB** for the backend. This project demonstrates secure user authentication using **JSON Web Tokens (JWT)** and follows industry best practices for password security and route protection.
