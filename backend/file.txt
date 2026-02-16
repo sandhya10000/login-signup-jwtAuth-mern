@@ -1,0 +1,35 @@
+//Registeration
+
+{
+  "name": "Sandhya Kumari",
+  "email": "sandhya@gmail.com",
+  "password": "123456"
+}
+
+//Login response
+
+{
+  "message": "Login Successfully",
+  "success": true,
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbmRoeWFAZ21haWwuY29tIiwiX2lkIjoiNjk4YzdmZTk3ZWUxMjkxOGI3Njc4Nzg3IiwiaWF0IjoxNzcwODMwNDYwLCJleHAiOjE3NzA5MTY4NjB9.vP_6cvwfQkBrVYcUbe6YENJrVK6lwFclFlXiXo-_dP4",
+  "email": "sandhya@gmail.com",
+  "name": "Sandhya Kumari"
+}
+
+//Product api get payload response
+{
+  email: 'sandhya@gmail.com',
+  _id: '698c7fe97ee12918b7678787',
+  iat: 1770979239,
+  exp: 1771065639
+}
+//frontend login credential 
+{
+    "email": "sneha12@gmail.com",
+    "password": "Test@123"
+}
+//{
+    "name": "Test user",
+    "email": "Testuser@gmail.com",
+    "password": "Test@123"
+}
